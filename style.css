@@ -2,4 +2,7 @@
     --cor-de-fundo: #063c6e;
    --roxo: #9E0BE2;
    --branco: #FFFFFF; 
+   --botao-ativo: #6B5FFD;
+    --botao-inativo: rgba(107, 95, 253, 0.5);
+    --txto-fundo: rgba(91, 45, 188, 0.3);
 } 
